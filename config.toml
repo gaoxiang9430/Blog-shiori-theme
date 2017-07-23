@@ -1,0 +1,17 @@
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseUrl = "https://sdugaoxiang.github.io/"
+canonifyurls = true
+
+
+title = "Xiang"
+author = "Gao Xiang"
+
+[params]
+    author_name = "Gao Xiang"
+    twitter_username = "gaoxiang9430"
+    
+[taxonomies]
+tag = "tags"
