@@ -1,0 +1,17 @@
+name = "Gao Xiang"
+license = "MIT"
+licenselink = "https://github.com/chibicode/hugo-theme-shiori/blob/master/LICENSE.md"
+description = "Welcome to Xiang's home"
+homepage = "http://sdugaoxiang.github.io/"
+tags = ["blog", "personal"]
+features = ["blog"]
+min_version= 0.13
+
+[author]
+    name =  "Gao Xiang"
+    homepage = "http://sdugaoxiang.github.io/"
+
+[original]
+    author = "Elle Kasai"
+    homepage = "http://ellekasai.github.io/shiori/"
+    repo = "https://github.com/ellekasai/shiori"

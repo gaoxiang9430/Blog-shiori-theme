@@ -1,0 +1,10 @@
+<footer>
+<div>
+	<div style="float:left; text-align:left"><font size="2" color="Black" face="Arial">Built with <a href="http://gohugo.io/">Hugo</a> ({{ .Hugo.Version }})</font></div>
+	<div style="float:right; text-align:right"><font size="2" color="Black" face="Arial">Gao Xiang</font></div>
+</div></br>
+<div>
+	<div style="float:left; text-align:left"><font size="2" color="Black" face="Arial">2017-06-03</font></div>
+	<div style="float:right; text-align:right"><font size="2" color="Black" face="Arial">gaoxiang_sdu@163.com</font></div>
+</div>
+</footer>

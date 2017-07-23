@@ -1,0 +1,24 @@
+{{ partial "layout_begin.html" . }}
+<div class="row">
+  <div class="col-sm-8">
+	  <section id="main">
+		  <div>
+			<h1 id="title">{{ .Title }}</h1>
+
+			{{ $data := .Data }}
+			{{ range $key,$value := .Data.Terms.ByCount }}
+			<h2><a href="{{ .Site.LanguagePrefix }}/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> {{ $value.Count }}</h2>
+			<ul>
+			{{ range $value.Pages.ByDate }}
+			  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+			{{ end }}
+			</ul>
+			{{ end }}
+		  </div>
+	  </section>
+  </div>
+  <div class="col-sm-4">
+    {{ partial "sidebar.html" . }}
+  </div>
+</div>
+{{ partial "layout_end.html" . }}

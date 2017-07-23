@@ -1,0 +1,15 @@
+{{ partial "layout_begin.html" . }}
+<div class="row">
+  <div class="col-sm-8">
+	  <section id="main">
+	  <div>
+	   <h1 id="title">{{ .Title }}</h1>
+
+	  </div>
+	　　</section>
+  </div>
+  <div class="col-sm-4">
+    {{ partial "sidebar.html" . }}
+  </div>
+</div>
+{{ partial "layout_end.html" . }}

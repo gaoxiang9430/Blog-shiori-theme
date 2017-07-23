@@ -1,0 +1,15 @@
+{{ partial "layout_begin.html" . }}
+<div class="row">
+  <div class="col-sm-8">
+  <main role="main" class="article-list">
+  <h1 class="list-title">{{ .Title }}</h1>
+  {{ range .Data.Pages }}
+    {{ partial "article-list-item.html" . }}
+  {{ end }}
+</main>
+  </div>
+  <div class="col-sm-4">
+    {{ partial "sidebar.html" . }}
+  </div>
+</div>
+{{ partial "layout_end.html" . }}

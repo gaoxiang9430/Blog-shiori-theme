@@ -1,0 +1,45 @@
+{{ if or .Site.Params.gravatar_id .Site.Params.author_name  }}
+
+<style>
+img{margin:20px 5px;}
+</style>
+
+<hr />
+<div style="filter:alpha(opacity=60);-moz-opacity:0.6;opacity:0.6; -khtml-opacity: 0.6;">
+<font size="3" color="Black" face="Arial"><b> ABOUT ME </b></font></br>
+</div>
+
+<div>
+<img src="{{ .Site.BaseURL }}res/gaoxiang.png" width="80%" height="80%"/>
+</div>
+
+<div style="filter:alpha(opacity=60);-moz-opacity:0.5;opacity:0.5; -khtml-opacity: 0.5;">
+<font size="3" color="Black" face="Arial"><b>一路走，一路戎马征关 </b></font></br>
+</div>
+
+<div>
+	<a href="mailto:gaoxiang@comp.nus.edu.sg">	<img src="{{ .Site.BaseURL }}res/email.png" width="15%" height="15%"/></a>
+	<a href="https://twitter.com/gaoxiang9430"><img src="{{ .Site.BaseURL }}res/twitter.png" width="15%" height="15%"/></a>
+	<a href="https://github.com/sdugaoxiang"><img src="{{ .Site.BaseURL }}res/github.png" width="15%" height="15%"/></a>
+	<a href="http://blog.csdn.net/gaoxiang__"><img src="{{ .Site.BaseURL }}res/csdn.jpg" width="15%" height="15%"/></a>
+</div>
+<hr />
+<div style="filter:alpha(opacity=60);-moz-opacity:0.6;opacity:0.6; -khtml-opacity: 0.6;">
+<font size="3" color="Black" face="Arial"><b> FRIEND LINK </b></font></br>
+</div>
+<div style="filter:alpha(opacity=60);-moz-opacity:0.5;opacity:0.5; -khtml-opacity: 0.5;">
+<a href="http://www.nus.edu.sg"><font size="2" color="Black" face="Arial"><b> National University of Singapore </b></font></br></a>
+<a href="http://www.sdu.edu.cn"><font size="2" color="Black" face="Arial"><b> ShanDong University </b></font></br></a>
+</div>
+<hr />
+
+<div style="filter:alpha(opacity=60);-moz-opacity:0.6;opacity:0.6; -khtml-opacity: 0.6;">
+<font size="3" color="Black" face="Arial"><b> EXTERNAL LINK </b></font></br>
+</div>
+<div style="filter:alpha(opacity=60);-moz-opacity:0.5;opacity:0.5; -khtml-opacity: 0.5;">
+<a href="https://github.com/sdugaoxiang/Android-Related-Paper"><font size="2" color="Black" face="Arial"><b> Android Related Papers </b></font></br></a>
+<a href="http://matt.might.net/articles/phd-school-in-pictures"><font size="2" color="Black" face="Arial"><b> Illustrated guide to Ph.D </b></font></br></a>
+<a href="https://sdugaoxiang.github.io/blog/SoC%20Conference%20Ranking.html"><font size="2" color="Black" face="Arial"><b> Soc Conference Ranking </b></font></br></a>
+</div>
+
+{{ end }}
