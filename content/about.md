@@ -6,7 +6,7 @@ title = ""
 
 ## 高祥（Gao Xiang） ##
 ---
-I am a first-year Ph.D candidate in [School of Computing](http://www.comp.nus.edu.sg/) at [National University of Singapore](http://www.nus.edu.sg/). Before that, I obtained my B.S. degree in Computer Science in [Shandong University](http://www.sdu.edu.cn/).<br>
+I am a second-year Ph.D candidate in [School of Computing](http://www.comp.nus.edu.sg/) at [National University of Singapore](http://www.nus.edu.sg/). Before that, I obtained my B.S. degree in Computer Science in [Shandong University](http://www.sdu.edu.cn/).<br>
 
 Address: National University of Singapore, School of Computing, AS6-411<br>
 Email: gaoxiang@comp.nus.edu.sg<br>

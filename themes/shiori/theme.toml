@@ -2,14 +2,14 @@ name = "Gao Xiang"
 license = "MIT"
 licenselink = "https://github.com/chibicode/hugo-theme-shiori/blob/master/LICENSE.md"
 description = "Welcome to Xiang's home"
-homepage = "http://sdugaoxiang.github.io/"
+homepage = "http://gaoxiang9430.github.io/"
 tags = ["blog", "personal"]
 features = ["blog"]
 min_version= 0.13
 
 [author]
     name =  "Gao Xiang"
-    homepage = "http://sdugaoxiang.github.io/"
+    homepage = "http://gaoxiang9430.github.io/"
 
 [original]
     author = "Elle Kasai"

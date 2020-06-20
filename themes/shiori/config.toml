@@ -2,7 +2,7 @@ languageCode = "en-us"
 contentdir = "content"
 publishdir = "public"
 builddrafts = false
-baseUrl = "http://sdugaoxiang.github.io/"
+baseUrl = "http://gaoxiang9430.github.io/"
 canonifyurls = true
 
 

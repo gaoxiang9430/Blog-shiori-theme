@@ -7,33 +7,45 @@ title = "rhesis"
 
 ----
 
+##### 郎心自有一双脚，隔江隔海会归来。 #####
+From: 一代宗师
+<p style="text-align:right">21-12-19 </p>
+
+----
+
+##### 翩翩程蝶着锦衣，唱啭漫天梨花雨。小楼凭栏断幽梦，虞姬刎颈祭别离。 #####
+From: 霸王别姬
+<p style="text-align:right">21-12-19 </p>
+
+----
+
 ##### 我之所以写作，不是因为我有才华，而是因为我有感情 #####
 From: 巴金
-<p style="text-align:right">23-07-25 </p>
+<p style="text-align:right">23-07-17 </p>
 
 ----
 
 ##### 往事依稀魂似梦，都随风雨入心头 #####
 From: 巴金
-<p style="text-align:right">23-07-25 </p>
+<p style="text-align:right">23-07-17 </p>
 
 ----
 
 ##### 人能弘道，道亦能弘人/千帆皆过影，良知乃吾师 #####
 From: 李嘉诚
-<p style="text-align:right">23-07-20 </p>
+<p style="text-align:right">23-07-17 </p>
 
 ----
 
 ##### 性格的基础是意志力，自我坚持和创意潜力的相形相塑 #####
 From: 李嘉诚
-<p style="text-align:right">23-07-20 </p>
+<p style="text-align:right">23-07-17 </p>
 
 ----
 
 ##### 命运大赢家的梦幻DNA组合是科学心智和艺术心灵的组合 #####
 From: 李嘉诚
-<p style="text-align:right">23-07-20 </p>
+<p style="text-align:right">23-07-17 </p>
 
 ----
 
